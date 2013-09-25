@@ -1,0 +1,5 @@
+Theme name:    Anchorstrap
+Description:   Twitter Bootstrap 3 Framework for AnchorCMS.
+Author name:   WebGantry (Maven)
+Author site:   http://webgantry.com
+License:       http://licence.visualidiot.com/
