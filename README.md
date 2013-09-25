@@ -6,4 +6,6 @@ A simple, blog-oriented layout for AnchorCMS. Feel free to "Fork" and use it; or
 
 Demo: N/A
 
-Screenshot: https://raw.github.com/WebGantry/Anchorstrap/master/screenshot.png
+Screenshot: ![Alt text](https://raw.github.com/WebGantry/Anchorstrap/master/screenshot.png "Anchorstrap")
+
+
